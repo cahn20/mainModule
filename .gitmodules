@@ -1,6 +1,0 @@
-[submodule "LimLabBase/sub"]
-	path = LimLabBase/sub
-	url = https://github.com/cahn20/subModule
-[submodule "submod"]
-	path = submod
-	url = https://github.com/cahn20/subModule
